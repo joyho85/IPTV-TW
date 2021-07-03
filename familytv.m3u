@@ -30,10 +30,6 @@ http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 ,FOXSports3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-#EXTINF:-1 ,FOXSports3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,FOXSports3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,ASTRO SPORT 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 ,ASTRO SPORT 2
@@ -42,6 +38,8 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 ,NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 ,勁爆體育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,魅力足球
